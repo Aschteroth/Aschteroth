@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Aschteroth
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning to use AzureML with Udacitys "Machine learning Engineer with MIcrosoft Azure"
+Hi, I’m @Aschteroth, a German Industrial Engineer working as Business Analyst in an e-commerce logistics startup. 
+
+I’m interested in everything related to data science, finance and fine cuisine.  
+Currently learning about operationalizing ML with Udacitys "Machine learning Engineer with MIcrosoft Azure" Nanodegree, managing Postgres Databases and writing short Python scripts to automate repetitive tasks in my day-to-day work. 
 
 
 <!---
